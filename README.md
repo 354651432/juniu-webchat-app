@@ -10,5 +10,3 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
-# juniu-webchat-app-server
-# juniu-webchat-app-server
